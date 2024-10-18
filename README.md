@@ -41,6 +41,3 @@ This segmentation promotes a structured and methodical organization of the data.
 In each folder there are two subfolders:
 * **images:** Provided in JPG format with a resolution of 640 × 640 pixels.
 * **labels:** Ppe are annotated in Pascal VOC format.
-
-
-
